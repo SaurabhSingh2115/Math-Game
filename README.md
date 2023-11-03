@@ -1,0 +1,1 @@
+Math Game is an engaging and educational application designed to help children enhance their arithmetic skills in addition, subtraction, multiplication, and division. This fun and interactive game offers an enjoyable learning experience while reinforcing fundamental math concepts.
