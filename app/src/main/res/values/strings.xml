@@ -8,6 +8,6 @@
         \n2. Answer Questions: You will be presented with a series of arithmetic questions. Answer them as quickly as you can.
         \n3. Scoring: Each correct answer will earn you 10 points.
         \n4. Lives: You start the game with 3 lives. Every time you answer a question incorrectly, you lose a life. The game ends when you have lost all your lives.
-        \n5. Timer: You have 1 minute to answer as many questions as you can. The game ends when the timer runs out.
+        \n5. Timer: You have 1 minute to answer each problem. If the timer runs out before you respond, you lose a life. The game ends when the timer runs out.
         \n6. End of Game: At the end of the game, your score will be displayed. Try to beat your high score!</string>
 </resources>
