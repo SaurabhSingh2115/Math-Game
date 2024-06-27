@@ -9,7 +9,7 @@ android {
 
     defaultConfig {
         applicationId = "com.singh.mathgame"
-        minSdk = 16
+        minSdk = 21
         targetSdk = 33
         versionCode = 1
         versionName = "1.0"
@@ -25,6 +25,9 @@ android {
                 "proguard-rules.pro"
             )
         }
+    }
+    buildFeatures{
+        viewBinding = true
     }
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_1_8

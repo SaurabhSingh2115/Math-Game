@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Math Game</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="instructions_text">1. Start the Game: Press ony any of the 4 buttons to begin the game. As soon as you press the button, the timer will start.
+        \n2. Answer Questions: You will be presented with a series of arithmetic questions. Answer them as quickly as you can.
+        \n3. Scoring: Each correct answer will earn you 10 points.
+        \n4. Lives: You start the game with 3 lives. Every time you answer a question incorrectly, you lose a life. The game ends when you have lost all your lives.
+        \n5. Timer: You have 1 minute to answer as many questions as you can. The game ends when the timer runs out.
+        \n6. End of Game: At the end of the game, your score will be displayed. Try to beat your high score!</string>
 </resources>

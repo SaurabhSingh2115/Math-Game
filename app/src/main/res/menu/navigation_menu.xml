@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="">
+    <!-- Your menu items go here -->
+    <group
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/baseline_add_home_24"
+            android:title="Home"/>
+        <item
+            android:id="@+id/nav_help"
+            android:icon="@drawable/baseline_assist_walker_24"
+            android:title="Help"/>
+        <item
+            android:id="@+id/nav_reminder"
+            android:icon="@drawable/baseline_edit_notifications_24"
+            android:title="Reminder"/>
+    </group>
+</menu>

@@ -5,6 +5,7 @@
          <item name="colorPrimary">@color/green</item>
          <item name="colorPrimaryVariant">@color/green</item>
          <item name="colorOnPrimary">@color/white</item>
+<!--        <item name="android:statusBarColor">@color/green</item>-->
     </style>
 
     <style name="Theme.GamePage" parent="Theme.Material3.DayNight.NoActionBar">
@@ -12,6 +13,7 @@
         <item name="colorPrimary">@color/blue</item>
         <item name="colorPrimaryVariant">@color/blue</item>
         <item name="colorOnPrimary">@color/white</item>
+<!--        <item name="android:statusBarColor">@color/green</item>-->
     </style>
 
     <style name="Theme.ResultPage" parent="Theme.Material3.DayNight.NoActionBar">
@@ -19,6 +21,7 @@
         <item name="colorPrimary">@color/ice_blue</item>
         <item name="colorPrimaryVariant">@color/ice_blue</item>
         <item name="colorOnPrimary">@color/white</item>
+<!--        <item name="android:statusBarColor">@color/green</item>-->
     </style>
 
     <style name="Theme.MathGame" parent="Base.Theme.MathGame" />
