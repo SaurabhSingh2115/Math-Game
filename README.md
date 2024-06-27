@@ -31,13 +31,13 @@ Math Game is an engaging and educational application designed to help children e
   - In case of answering wrong, life reduces.
   - ![image](https://github.com/SaurabhSingh2115/Math-Game/assets/92015232/d748883f-fca2-4819-a91b-caf42391ccc1)
   - Games ends and high score gets updated.
-  - ![image](https://github.com/SaurabhSingh2115/Math-Game/assets/92015232/f5535b4a-eb1a-4735-8976-abb38c0a9caa)
+  ![image](https://github.com/SaurabhSingh2115/Math-Game/assets/92015232/f5535b4a-eb1a-4735-8976-abb38c0a9caa)
 
 - Notification
   
   - Upon starting a game, you receive an automatic notification indicating the daily practice time.
   - This encourages consistent engagement for daily practice.
-  - ![image](https://github.com/SaurabhSingh2115/Math-Game/assets/92015232/613ac7d8-0f02-40fd-932e-6049ba4431de)
+  ![image](https://github.com/SaurabhSingh2115/Math-Game/assets/92015232/613ac7d8-0f02-40fd-932e-6049ba4431de)
 
 
 
